@@ -1,0 +1,8 @@
+
+i
+java:S1192"SDefine a constant instead of duplicating this literal "Exception message " 3 times.(«ΖΞ
+k
+java:S1128
+"URemove this unused import 'org.springframework.web.servlet.HandlerExceptionResolver'.(΅›Β‚
+o
+java:S1128	"TRemove this unused import 'org.springframework.web.client.HttpServerErrorException'.(ιεωÿÿÿÿ

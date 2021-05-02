@@ -1,0 +1,18 @@
+
+E
+java:S1066B"/Merge this if statement with the enclosing one.(˜Ïğæ
+\
+java:S1128"FRemove this unused import 'org.springframework.core.annotation.Order'.(Ö¨æ
+y
+java:S1128"^Remove this unused import 'org.springframework.web.servlet.handler.HandlerInterceptorAdapter'.(÷À¤¬üÿÿÿÿ
+d
+java:S1128"IRemove this unused import 'org.springframework.web.servlet.ModelAndView'.(Ç¨ÿäûÿÿÿÿ
+o
+java:S1128
+"TRemove this unused import 'org.springframework.web.servlet.AsyncHandlerInterceptor'.(Ã¾Šÿÿÿÿÿ
+Q	java:S125/"<This block of commented-out lines of code should be removed.(ÈÎ–€
+Q	java:S1257"<This block of commented-out lines of code should be removed.(Ş‰÷é
+J
+java:S6212S"/Declare this local variable with "var" instead.(úŒíØûÿÿÿÿ
+G
+java:S1612X",Replace this lambda with a method reference.(Ôİ Óıÿÿÿÿ
