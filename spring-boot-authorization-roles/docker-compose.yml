@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  spring_boot_authorization_roles:
+    container_name: spring_boot_authorization_roles
+    build:
+      context: .
+    ports:
+      - 8081:8081
+    networks:
+      - spring-boot-network
+    environment:
+      JAVA_OPTS: "-Dspring.profiles.active=qa"
+    depends_on: mongodb
+    restart: always
+  mongodb:
+    container_name: mongodb
+    image: mongo
+    ports:
+      - 27017:27017
+    restart: unless-stopped
+    network:
+      - spring-boot-network
+networks:
+  spring-boot-network:
+    driver: bridge
