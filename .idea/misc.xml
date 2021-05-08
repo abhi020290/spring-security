@@ -6,7 +6,7 @@
     <option name="mavenCommandLineParams" value="" />
     <option name="vmOptions" value="" />
     <option name="useMavenEmbedder" value="false" />
-    <option name="useFilter" value="false" />
+    <option name="useFilter" value="true" />
     <option name="Batch Mode" value="false" />
     <option name="Check Plugin Updates" value="false" />
     <option name="Debug" value="false" />
