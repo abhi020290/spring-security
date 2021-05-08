@@ -1,0 +1,4 @@
+auth:
+    secret: 67327832bdg9ah432m535465f44
+server:
+    port: 8081
